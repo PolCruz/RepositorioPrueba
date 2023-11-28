@@ -2,3 +2,10 @@ git add tutorial.txt
 git commit -m "He subido un tutorial para saber como hacer esto"
 git remote set-url origin git@github.com:PolCruz/RepositorioPrueba.git (Para poder solo hacer el push la url la sacamos de el codigo > code > SSH)
 git push
+
+
+Para camviar de rama: 
+"""alumne_1r@INSMVM-2489:~/Documents/RepositorioPrueba$ git checkout main
+S'ha canviat a la branca «main»
+La vostra branca està al dia amb «origin/main»."""
+
