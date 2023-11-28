@@ -1,3 +1,3 @@
 print("Hola mundo, JUAN JUANITO JUAN JUANITO GOLONDRINA AMIGO DE  LOS PATOS Y DE LAS GALLINAS")
-for i in range(0,10):
+for i in range(0,5):
     print("Corregire los examenes a tiempo")
